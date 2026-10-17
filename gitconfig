@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dhiaelhakmokhtari@gmail.com
+	name = Dhia Elhak MOKHTARI
